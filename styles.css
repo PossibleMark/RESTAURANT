@@ -1,0 +1,268 @@
+ul{
+   
+    list-style: none;
+    padding:0;
+    margin:0;
+    overflow:hidden;   
+   }
+   
+   li a{color:black;
+        font-size: 18px;
+        font-family:verdana;
+       text-decoration: none;
+       padding: 20px;
+   
+       
+   }
+   
+  li {float:right}
+   
+   li a:hover{
+     color:blue;
+     text-decoration: underline;
+   }
+
+   div.nav{
+    position: absolute;
+    top: 70px;
+    left:350px;
+    
+   }
+
+   div.button1{
+    position:absolute;
+    top: 50px;
+    left: 1100px;
+   
+   }
+
+   #header{
+    width:100%;
+    height:130px;
+    background-color: white;
+    position:fixed;
+    top:0;
+    z-index: 1000;
+   }
+
+   #button{
+    width:150px;
+    height: 50px;
+    border-radius: 25px;
+    border: 2px solid white;
+    background-color: rgb(253, 253, 3);
+    font-size: 17px;
+   }
+
+   #button:hover{
+    background-color:green;
+    color:white;
+   }
+
+   div.our{
+    position: absolute;
+    top:200px;
+    left: 80px;
+   }
+
+   div.tacos{
+    position: absolute;
+    top: 400px;
+    left:60px;
+   }
+
+   div.breakfast{
+    position:absolute;
+    top:400px;
+    left:480px;
+   }
+
+   div.plate{
+    position:absolute;
+    top:400px;
+    left:900px;
+   }
+
+   #but{
+    width:190px;
+    height: 50px;
+    border-radius: 25px;
+    border: 2px solid white;
+    background-color: rgb(253, 253, 3);
+    font-size: 17px;
+    font-family: sans-serif;
+   }
+
+   #butt{
+    position:absolute;
+    left:35px;
+    top:60px;
+    width:120px;
+    height: 50px;
+    border-radius: 25px;
+    border: 2px solid white;
+    background-color: rgb(253, 253, 3);
+    font-size: 17px;
+    font-family: sans-serif;
+   }
+
+   div.adj{
+    position: absolute;
+    top:800px;
+    left:600px;
+   }
+
+   div.burr{
+       position:absolute;
+       top:1000px;
+       left: 40px;
+   }
+
+   div.que{
+    position:absolute;
+    top:1000px;
+    left: 550px;
+   }
+
+   div.chi{
+    position:absolute;
+    top:1000px;
+    left: 900px;
+   }
+
+   #sec1{
+    text-align: center;
+    font-size: 20px;
+    font-family: tahoma;
+    font-weight: bold;
+   }
+
+   #sec2{
+    text-align: center;
+    font-size: 18px;
+   }
+
+   #online{
+    position:absolute;
+    top:500px;
+    left: 80px;
+    width:150px;
+    height: 50px;
+    border-radius: 25px;
+    border: 2px solid white;
+    background-color: rgb(253, 253, 3);
+    font-size: 17px;
+   }
+
+   #gall{
+    position:absolute;
+    top:700px;
+    left: 50px;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+   }
+
+   div.ti1{
+      position: absolute;
+      top:1900px;
+      left:20px;
+   }
+
+   div.ti2{
+    position: absolute;
+    top:1900px;
+    left:500px;
+   }
+
+   div.ti3{
+    position: absolute;
+    top:1900px;
+    left:900px;
+   }
+
+   div.cater{
+    position:absolute;
+    top:2400px;
+    left: 400px;
+   }
+
+   #tacolife{
+    position: absolute;
+    top:500px;
+    left: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: bold;
+   }
+
+   div.family{
+    position: absolute;
+    top: 3100px;
+    left:50px;
+   }
+
+   div.aboutus{
+    position: absolute;
+    top: 3100px;
+    left: 700px;
+   }
+
+   #about{
+    font-size: 50px;
+    font-family: tahoma;
+    font-weight: bold;
+   }
+
+   #us1{
+    font-size: 20px;
+   }
+
+   div.map{
+    position: absolute;
+    top: 3700px;
+    left:70px;
+   }
+
+   div.address{
+    position: absolute;
+    top: 3700px;
+    left: 700px;
+   }
+
+   #butto{
+    width:240px;
+    height: 50px;
+    border-radius: 25px;
+    border: 2px solid white;
+    background-color: rgb(253, 253, 3);
+    font-size: 17px;
+   }
+
+   div.link{
+    position: absolute;
+    top: 4300px;
+    left:700px;
+   }
+
+   #useful{
+     font-size: 30px;
+     font-weight: bold;
+  }
+
+  div.followus{
+    position: absolute;
+    top: 4300px;
+    left:900px;
+  }
+
+  div.relative{
+    top:4500px;
+    position:relative;
+    width:100%;
+    height: 100px;
+    background-color:black;
+  }
+
+  
+  
